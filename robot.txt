@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /stylesheets/
-Disallow: /images/
-Disallow: 
